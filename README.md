@@ -131,8 +131,7 @@ This generates `predictions.csv` with:
 
 ## Evaluation Metrics
 ### **Achieved Accuracy: 80%**
-- **Cohen’s Kappa Score:** Measures agreement between true and predicted labels.
-- **Confusion Matrix:** Evaluates correct & incorrect classifications.
+
 
 ### **View Classification Report**
 ```bash
