@@ -107,11 +107,11 @@ python testing111.py
 
 ## Model Training Details
 - **Model Used:** DenseNet-121 with additional CNN layers
-- **Epochs:** 50
+- **Epochs:** 40
 - **Batch Size:** 32
 - **Optimizer:** Adam (learning rate = 0.0001)
 - **Loss Function:** Sparse Categorical Crossentropy
-- **Performance Metric:** Cohen’s Kappa Score
+
 
 The model is trained using **transfer learning**, allowing faster convergence and better accuracy.
 
@@ -160,7 +160,3 @@ Developed by **Rajeev Ranjan Pratap Singh** 🚀
 
 Feel free to contribute and improve the model!
 
----
-
-## License
-This project is licensed under the **MIT License**.
