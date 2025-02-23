@@ -17,9 +17,8 @@ Diabetic-Retinopathy-Classification/
 │── predictions.csv              # Model predictions & confidence scores
 │── dataset/                     # Folder for original dataset (if applicable)
 │── README.md                    # Project Documentation
+|── datset and few points
 ```
-
----
 
 ## Dataset
 The dataset consists of **retinal fundus images**, each labeled by clinicians for **Diabetic Retinopathy (DR) severity**. The dataset used in this project comes from the **APTOS 2019 Blindness Detection dataset** and is structured as follows:
@@ -39,7 +38,7 @@ Each image is categorized into respective class-based folders and used for **tra
 
 ### **1. Clone Repository**
 ```bash
-git clone https://github.com/yourusername/Diabetic-Retinopathy-Classification.git
+git clone https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification.git
 cd Diabetic-Retinopathy-Classification
 ```
 
